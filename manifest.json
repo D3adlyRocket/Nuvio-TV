@@ -62,7 +62,7 @@
       "version": "2.0.0",
       "author": "JK",
       "supportedTypes": ["movie", "tv"],
-      "filename": "src/providers/moviesdrive.js",
+      "filename": "providers/moviesdrive.js",
       "enabled": true,
       "formats": ["mp4", "mkv", "m3u8"],
       "logo": "https://i.postimg.cc/bwDbhq9q/moviesdrive.png",
