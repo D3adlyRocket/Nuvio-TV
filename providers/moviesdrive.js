@@ -1,4 +1,4 @@
-// MoviesDrive Provider Plugin (nuvio) – complete, series auto, stream_title used
+// MoviesDrive Provider Plugin (nuvio) – complete, series auto, stream_title used.
 
 var __defProp = Object.defineProperty;
 var __defProps = Object.defineProperties;
