@@ -69,19 +69,6 @@
       "contentLanguage": ["en", "hi"]
     },
     {
-      "id": "showbox",
-      "name": "ShowBox",
-      "description": "ShowBox streaming with multiple quality options and versions",
-      "version": "1.0.0",
-      "author": "Nuvio Team",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/showbox.js",
-      "enabled": true,
-      "formats": ["mp4", "mkv", "m3u8"],
-      "logo": "https://i.postimg.cc/8c5XGzsx/showbox.png",
-      "contentLanguage": ["en"]
-    },
-    {
       "id": "uhdmovies",
       "name": "UHDMovies",
       "description": "UHD Movies streaming with multiple resolution",
