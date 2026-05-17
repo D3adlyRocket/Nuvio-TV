@@ -80,6 +80,19 @@
       "formats": ["mp4", "m3u8"],
       "logo": "https://i.postimg.cc/KzDBBdbK/uhdmovies.png",
       "contentLanguage": ["en"]
+    },
+    {
+      "id": "vegamovies",
+      "name": "VegaMovies",
+      "description": "VegaMovies streaming with high-quality direct links",
+      "version": "2.0",
+      "author": "piratezoro9",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/vegamovies.js",
+      "enabled": true,
+      "formats": ["mp4", "mkv"],
+      "logo": "https://i.postimg.cc/TwYK26jn/vegamovies.png",
+      "contentLanguage": ["en", "hi"]
     }
   ]
 }
